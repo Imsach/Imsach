@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=imsach" alt="imsach" /></a> </p>
 
-- 🔭 I’m currently working on [SalaryML](https://github.com/Imsach/salaryML)
+- 🔭 I’m currently working on [StonkPlan.com](https://StonkPlan.com) [ComingSoon]
 
 - 🌱 I’m currently learning **Django, React, ML, AWS**
 
