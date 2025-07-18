@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently using **Flask, Airflow, , React + Vite, ML/AI integrations, AWS services, Contabo, etc**
 
-- 👯 I’m looking to collaborate on [FlaskStockly](https://github.com/Imsach/flaskstockly)
+- 👯 I’m looking to collaborate on [FlaskStockly](https://github.com/Imsach/flaskstockly) and other private projects.
 
-- 👨‍💻 All of my projects are available at [https://github.com/Imsach?tab=repositories](https://github.com/Imsach?tab=repositories)
+- 👨‍💻 All of my projects are available at [https://github.com/Imsach?tab=repositories](https://github.com/Imsach?tab=repositories) 
 
 - 📫 How to reach me **sach.m.bhatt@gmail.com**
 
