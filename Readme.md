@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin Bhatt</h1>
-<h3 align="center">Passionate Data Analyst</h3>
+<h3 align="center">Passionate Data Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsach&label=Profile%20views&color=0e75b6&style=flat" alt="imsach" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [StonkLab.com](https://StonkLab.com) [ComingSoon]
 
-- 🌱 I’m currently learning **Django, React, ML, AWS**
+- 🌱 I’m currently using **Flask, Airflow, , React + Vite, ML/AI integrations, AWS services, Contabo, etc**
 
 - 👯 I’m looking to collaborate on [FlaskStockly](https://github.com/Imsach/flaskstockly)
 
