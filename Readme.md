@@ -2,14 +2,14 @@
 <h3 align="center">Data Enthusiast | Full-Stack Developer | AI/ML Explorer</h3>
 
 <p align="center">
-  <a href="https://StonkLab.com" target="_blank">🌐 StonkLab.com</a> . • .
+  <a href="https://StonkLab.com" target="_blank">🌐 StonkLab.com (Under Development)</a> . • .
   <a href="mailto:sach.m.bhatt@gmail.com">✉️ Contact Me</a>
 </p>
 
 ---
 
 ## 🚀 About Me
-- 🔭 Currently building **StonkLab.com**, a platform for stock analysis & AI insights  
+- 🔭 Currently building **StonkLab.com** (under development), a platform for stock analysis & AI insights  
 - 🌱 Learning & experimenting with **Flask, Airflow, React + Vite, ML/AI integrations, AWS, Contabo**  
 - 👯 Open to collaborating on innovative projects and open-source contributions  
 - 💡 Passionate about **data, automation, and solving real-world problems**  
@@ -21,7 +21,7 @@
 |---------|-------------|------|
 | **NAS-Sync** | Cross-platform Python tool to sync files across NAS devices | [GitHub](https://github.com/Imsach/nas-sync) |
 | **FlaskStockly** | Stock screener & analysis web app with ML/AI features | [GitHub](https://github.com/Imsach/flaskstockly) |
-| **STONKLAB AI Models** | AI models for stock prediction and insights | [StonkLab.com](https://StonkLab.com) |
+| **STONKLAB AI Models** | AI models for stock prediction and insights | [StonkLab.com (Under Development)](https://StonkLab.com) |
 
 ---
 
