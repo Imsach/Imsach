@@ -19,6 +19,7 @@
 ## 💻 Featured Projects
 | Project | Description | Link |
 |---------|-------------|------|
+| **Comfy-Studio-App** | AI image generation studio built on ComfyUI with multi-image editing, batch processing, and workflow management. | [GitHub](https://github.com/Imsach/comfy-studio-app) |
 | **NAS-Sync** | Cross-platform Python tool to sync files across NAS devices | [GitHub](https://github.com/Imsach/nas-sync) |
 | **FlaskStockly** | Stock screener & analysis web app with ML/AI features | [GitHub](https://github.com/Imsach/flaskstockly) |
 | **STONKLAB AI Models** | AI models for stock prediction and insights | [StonkLab.com (Under Development)](https://StonkLab.com) |
